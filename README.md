@@ -13,7 +13,7 @@ Make sure you have node and npm installed in your system
  
 Here run the following command
  
- npm init
+ <div>npm init</div>
  npm i express
  npm i cors
  npm i dotenv
