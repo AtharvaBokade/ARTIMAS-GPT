@@ -14,13 +14,13 @@ Make sure you have node and npm installed in your system
 Here run the following command
  
  <div>npm init</div>
- npm i express
- npm i cors
- npm i dotenv
- npm i openai
+ <div>npm i express</div>
+<div> npm i cors</div>
+<div> npm i dotenv</div>
+<div> npm i openai</div>
  
  and now run the server enter the following command
- npm run start
+ <div>npm run start</div>
  
  
 <h3>Steps to set up and run the frontend</h3>
@@ -28,29 +28,29 @@ Once you are in cloned directory move to the artimas-hackathon-app/artimas-hacka
 
 Now run the following commands
 
-npm i axios
-npm i react-icons
-npm i react-icons/ai
-npm i react-icons/bs
-npm i gasp
+<div>npm i axios</div>
+<div>npm i react-icons</div>
+<div>npm i react-icons/ai</div>
+<div>npm i react-icons/bs</div>
+<div>npm i gasp</div>
 
 Now to you can follow the steps givent in the link to activate tailwind in you system
 
 run the following command
-npm install -D tailwindcss
-npx tailwindcss init
+<div>npm install -D tailwindcss</div>
+<div>npx tailwindcss init</div>
 
 In the tailwind.config.js file in the content section add the following code
 
-  content: [
-    "*",
-  ],
+ <div> content: [</div>
+ <div>   "*",</div>
+ <div> ],</div></div>
 
 In the index.css file add the following code
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+<div>@tailwind base;</div>
+<div>@tailwind components;</div>
+<div>@tailwind utilities;</div>
 
 In the index.html file add the following script
 
@@ -58,7 +58,7 @@ In the index.html file add the following script
   
  and now run the frontend enter the following comman
  
- npm start 
+<div> npm start </div>
  
 
  
